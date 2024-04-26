@@ -459,7 +459,7 @@ export default function Home() {
             </div>
 
             <div className="py-[15px]">
-              {/* <CarouselVideo /> */}
+              <CarouselVideo />
             </div>
 
             <div className="text-center my-[60px]">

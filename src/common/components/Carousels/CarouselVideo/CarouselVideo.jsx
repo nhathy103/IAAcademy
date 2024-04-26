@@ -41,22 +41,16 @@ export default function CarouselVideo() {
     <div className="card-carousel mx-auto max-w-screen-lg">
       <OwlCarousel className='owl-theme' {...options}>
         <div className='px-[15px] item rounded-md overflow-hidden'>
-          <iframe width="350" height="200" src="https://www.youtube.com/embed/2xtWfjXKD0c?si=xDJEqRHArkCqZlNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="350" height="200" src="https://www.youtube.com/embed/-Q2varC7To8?si=c8qad-bzW1uO8obX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className='px-[15px] item rounded-md overflow-hidden'>
-          <iframe width="350" height="200" src="https://www.youtube.com/embed/2xtWfjXKD0c?si=xDJEqRHArkCqZlNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="350" height="200" src="https://www.youtube.com/embed/MZkkXTljGLw?si=BfZOeSP3cgMpzaRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className='px-[15px] item rounded-md overflow-hidden'>
-          <iframe width="350" height="200" src="https://www.youtube.com/embed/2xtWfjXKD0c?si=xDJEqRHArkCqZlNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="350" height="200" src="https://www.youtube.com/embed/AK6fUKrGGm8?si=TdYGq2ZtdNw0mxj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className='px-[15px] item rounded-md overflow-hidden'>
-          <iframe width="350" height="200" src="https://www.youtube.com/embed/2xtWfjXKD0c?si=xDJEqRHArkCqZlNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-        <div className='px-[15px] item rounded-md overflow-hidden'>
-          <iframe width="350" height="200" src="https://www.youtube.com/embed/2xtWfjXKD0c?si=xDJEqRHArkCqZlNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
-        <div className='px-[15px] item rounded-md overflow-hidden'>
-          <iframe width="350" height="200" src="https://www.youtube.com/embed/2xtWfjXKD0c?si=xDJEqRHArkCqZlNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="350" height="200" src="https://www.youtube.com/embed/2GHVrIjFTkQ?si=SEr4g2bJRQgPY8Gr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </OwlCarousel>
     </div>
