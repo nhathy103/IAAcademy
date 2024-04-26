@@ -1,10 +1,10 @@
 import Course from '@/pages/course'
 import Home from '@/pages/home'
 import MainClientLayout from '@/layouts/MainClientLayout'
-import Post2 from '@/pages/details/Post2'
-import Post1 from '@/pages/details/Post1'
-import Post3 from '@/pages/details/Post3'
-import Post4 from '@/pages/details/Post4'
+import Post2 from '@/pages/posts/Post2'
+import Post1 from '@/pages/posts/Post1'
+import Post3 from '@/pages/posts/Post3'
+import Post4 from '@/pages/posts/Post4'
 
 const mainClientLayout = (children, isFixedHeader) => <MainClientLayout isFixedHeader={isFixedHeader}>{children}</MainClientLayout>
 const clientRoutes = [
