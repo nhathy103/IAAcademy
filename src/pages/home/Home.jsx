@@ -40,7 +40,6 @@ export default function Home() {
     if (!showForm) {
       setFormSubmitted(fieldForm);
     }
-    console.log("oke");
   }
 
   useEffect(() => {
@@ -65,9 +64,8 @@ export default function Home() {
     }
 
     if (isSubmit) {
-      setIsScrolled(false);
       setFormSubmitted(fieldForm);
-      handleShowForm();
+      setShowForm(false)
       Swal.fire({
         title: "Đăng ký thành công",
         text: "Cảm ơn bạn đã tin tưởng vào hệ thống đào tạo của chúng tôi.",
@@ -488,6 +486,7 @@ export default function Home() {
                         placeholder='Họ và Tên'
                         onChange={(e) => setFormSubmitted((prev) => ({ ...prev, fullName: e.target.value }))}
                         name="fullname"
+                        value={formSubmitted.fullName}
                         required="required"
                       />
                     </div>
