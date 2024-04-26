@@ -63,10 +63,10 @@ export default function Home() {
     if (formSubmitted.address == '') {
       isSubmit = false;
     }
-    console.log(isSubmit);
 
     if (isSubmit) {
       setIsScrolled(false);
+      setFormSubmitted(fieldForm);
       handleShowForm();
       Swal.fire({
         title: "Đăng ký thành công",
