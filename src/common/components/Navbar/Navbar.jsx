@@ -11,7 +11,7 @@ export default function Navbar() {
             <ul className="flex flex-row">
 
               <li className="hover:bg-gray-300 px-10 rounded-md mx-3">
-                <Link href="/" title="ƯU ĐÃI" className='flex flex-row text-[16px] tracking-wide gap-2  font-medium py-[12px] items-center justify-center'>
+                <Link href="/IAAcademy" title="ƯU ĐÃI" className='flex flex-row text-[16px] tracking-wide gap-2  font-medium py-[12px] items-center justify-center'>
                   Giới thiệu
                 </Link>
                 {/* tham khảo: https://skillking.fpt.edu.vn/gioi-thieu-fpt-skillking/ */}
