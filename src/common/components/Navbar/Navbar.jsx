@@ -18,9 +18,9 @@ export default function Navbar() {
               </li>
 
               <li className="hover:bg-gray-300 px-10 rounded-md mx-3">
-                <Link href="https://moicosmetics.vn/pages/page-dang-ky-tro-thanh-doi-tac-moi" title="ĐĂNG KÝ KINH DOANH" className='flex flex-row text-[16px] tracking-wide gap-2  font-medium py-[12px] items-center justify-center'>
+                <a href="https://moicosmetics.vn/pages/page-dang-ky-tro-thanh-doi-tac-moi" title="ĐĂNG KÝ KINH DOANH" className='flex flex-row text-[16px] tracking-wide gap-2  font-medium py-[12px] items-center justify-center'>
                   Giảng viên
-                </Link>
+                </a>
                 {/* tham khảo: https://skillking.fpt.edu.vn/danh-sach-giang-vien/ */}
               </li>
 
